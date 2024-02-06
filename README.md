@@ -11,3 +11,4 @@ Below are the various critical questions that were asked in order to carefully a
 •	Is there a correlation between the number of lectures in a course and the reviews?
 •	What are the number of free and paid courses in a particular subject?
 I would be making use of Python to analyze this dataset and create charts to further illustrate the insights gotten.
+The python file where the codes were ran, and the visuals were created has been uploaded above with the name "udemy py file" while the csv file is alongside. All the questions that are stated here, were also answered on the "py file" uploaded.
